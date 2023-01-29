@@ -1,0 +1,452 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'century gothic', calibri,serif;
+    font-size: 13px; ;
+   
+}
+
+
+.VARAIBLE{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.VARAIBLE li{
+    align-items: center;
+    float: right;
+    margin-top: 70px;
+   
+
+}
+
+.kadime img{
+    background-color: white;
+    border-radius: 25px;
+    height: 150.64px;
+    width: 86.78px;
+    top: 328px;
+    left: 652PX;
+
+  
+}
+.kadime img{
+    line-height: 10px;
+    text-align: center;
+    height: 100px;
+    width: 200px;
+    margin-top: 80px;
+}
+
+
+nav{
+width: 100%;
+padding: 0px;
+text-align: center;
+
+
+}
+
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+nav UL li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+header{
+    height: 120px;
+    text-align: center;
+    background: white;
+    margin-top: -15px;
+       
+    
+}
+
+section{
+    width: 100%;
+    min-height: 300%;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.sec{
+    background-image: url(./ORANGE.png);
+    background-size: cover;
+    height: 612px;
+    top: 116px;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+
+img{
+     width: 100px;
+     padding: 10px;
+}
+.orange{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.rouge{
+    background: gray;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 364px;
+    height: 86.78px;
+    top: 328px;
+    left: 652px;
+    line-height: 80px;
+    color: white;
+    margin-left: 40%;
+    margin-top: 20px;
+   
+
+}
+.para{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+div h1{
+    border: 0px black solid;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.ka{
+    background: white;
+    height: 300px;
+    margin: 0px;
+    margin-top: 0px;
+    padding: 80px;
+    display: flex;  
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
+    margin-right: -15px;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nemu li{
+    float: left;
+    padding: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+/* .imagep{
+    width: 20%;
+    height: 20%;
+    align-items: center;
+    line-height: 5px;
+} */
+.imagep img{
+    width: 149.11px;
+    height: 150px;
+    top: 129px;
+    left: 1009px;
+    border-radius: 100%;
+    border: 3px solid #369E8A;
+}
+.imageb{
+    width: 20%;
+    height: 20%;
+    align-items: center;
+    line-height: 5px;
+
+}.imaged img{
+    width: 149.11px;
+    height: 150px;
+    top: 929px ;
+    left: 275px;
+    border-radius: 100%;
+    border: 3px solid #369E8A;
+}
+/* .imagem{
+    width: 20%;
+    height: 20%;
+    line-height: 5px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+} */
+.imagem img{
+    width: 149.11px;
+    height:150px ;
+    top:929px ;
+    left:1009px ;
+    border-radius: 65%;
+    border: 3px solid #369E8A;
+}
+.nemu li{
+    float: left;
+    padding: 30px;
+    margin-right: 190px;
+    margin-left: 50px;
+    
+}
+.nemu2{
+    background-color: grey;
+    height: 100px;
+    margin-top: 0px;
+    margin: 0px;
+    padding: 100px;
+    align-items: center;
+
+}
+.nemu2 li{
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;  
+    margin-top: 40px;
+}
+
+.BLOG{
+    display: flex;
+    text-align: center;
+    
+}
+
+.logo{
+    background: #83CBCF;
+     width: 25%;
+     height: 290px;
+     align-items: center;   
+    
+}
+.logo image{
+    padding: 60px;
+}
+.blue{
+    background: #67B4CC;
+     width: 25%;
+     height: 290px;
+     text-align: center;
+     
+    
+}
+.vert{
+    background: #649A97;
+     width: 25%;
+     height: 290px;
+     
+    
+}
+.ORANGE{
+    background:#35A0AE;
+     width: 25%;
+     height: 290px;
+     
+}
+.velo{
+    background: #827263;
+     width: 25%;
+     height: 290px;
+}
+.PRO{
+    display: flex;
+    
+}
+
+.color{
+    background: #35A0AE;
+     width: 25%;
+     height: 290px;
+}
+.paragraphe{
+    background: #237792;
+     width: 25%;
+     height: 290px;
+     
+}
+.chambre{
+    background: #A5C0AD;
+     width: 25%;
+     height: 290px;
+}
+.vole{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+.vole{
+    margin-top: 30px;
+    align-items: center;
+}
+.container3{
+  max-width: 720px;
+  margin: 0px auto;
+  width: 100%;
+  background-color: white;
+  margin-top: 20px;
+}
+.bar1{
+	display: flex;
+	justify-content: space-between;
+}
+.bar2{
+	display: flex;
+	justify-content: space-between;
+}
+
+.text-center {
+ text-align:center;
+  }
+
+.progressbar-wrapper {
+  background-color: #A5C0AD;
+  color: white;
+  border-radius: 15px;
+  width: 100%;
+ 
+}
+
+.progressbar {
+  background-color: paleturquoise;
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  
+}
+
+.progressbar[title="downloading"] {
+   background-color: paleturquoise
+}
+
+.progressbar[title="downloaded"] {
+   /* /background-color: var(--success);/ */
+   background-color: paleturquoise;
+
+}
+  
+.pratique {
+  width: 100%;
+  height: 15px;
+}
+
+.opp {
+  width: 400px;
+}
+.backeliste{
+	width: 80px;
+    height: 15px;
+}
+.autre{
+	width: 280px;
+
+}
+.progressbar-wrapper {
+  background-color: #A5C0AD; 
+	width: 450px;
+}
+
+.mikey{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.table{
+    margin-top: 15px;
+}
+.projet{
+    background: #827263;
+    margin-top: 100px;
+}
+h4{
+    align-items: center;
+}
+
+
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+
+
+}
+/* 
+On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 20px 10px;
+  background-color: aliceblue;
+  text-align: center;
+}
+.container-JohnDoe{
+    background-color: aqua;
+}
+.voloune{
+    background-color: white;
+     text-align: center;
+    margin-top: -15px;
+    padding: 100px;
+}
+.pile{
+    text-align: center;
+    margin-top: -15px;
+}
+.colonne{
+     margin-top: 100px;
+}
+.footer{
+    background-color:gray;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+.list li a{
+    text-decoration: none;
+}
+.ndiaye{
+    padding: 100px;
+}
+.diop{
+    padding: 100px;
+}  
